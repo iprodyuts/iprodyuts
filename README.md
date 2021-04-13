@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iprodyuts
+- 👋 Hi, I’m Prodyut Sinha
 - 👀 I’m interested in coding and gaming and singing
 - 🌱 I’m currently learning progamming languages
 - 💞️ I’m looking to collaborate on ...
